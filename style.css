@@ -1,0 +1,40 @@
+
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS381WTbN5FAetHcaau9c3CgOwqWIpmYp5Qlw&usqp=CAU");
+  text-align: center;
+  font-family: Papyrus;
+}
+
+h1{
+  background-color: whitesmoke;
+  font-family: Papyrus;
+}
+
+h2{
+  background-color: whitesmoke;
+}
+
+p{
+  background: rgba(255, 255, 255, 0.5);
+  
+}
+
+h5{
+  color: blue;
+}
+
+#dog{
+  text-align: center;
+}
+
+#emoji{
+  width: 30px;
+}
+
+#border{
+  width: 200px;
+  text-align: center;
+}
